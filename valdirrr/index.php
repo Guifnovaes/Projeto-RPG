@@ -2,9 +2,9 @@
 require_once 'Player.php';
 require_once 'Inventario.php';
 require_once 'Item.php';
-require_once 'ataque.php';
-require_once 'defesa.php';
-require_once 'magia.php';
+require_once 'Ataque.php';
+require_once 'Defesa.php';
+require_once 'Magia.php';
 
 
 $player1 = new Player("Tião carreiro");
